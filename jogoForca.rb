@@ -1,5 +1,5 @@
 def wellcome
-    puts "Hello..?"
+    puts "Hello.?"
     name = gets.chomp
     puts "Ok, hello #{name}"
 end
